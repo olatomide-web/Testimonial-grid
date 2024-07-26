@@ -1,0 +1,1 @@
+learnt about tailwind plugins by using line-clamps to truncate text
